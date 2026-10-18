@@ -9,3 +9,6 @@ runs/
 *.onnx
 *.pyc
 *.log
+!backend/models/
+!backend/models/yolo11n.pt
+!backend/models/best.pt
