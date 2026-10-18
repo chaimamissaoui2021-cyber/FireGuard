@@ -2,7 +2,6 @@ fire-dataset/
 train/
 valid/
 test/
-test-data/
 venv/
 node_modules/
 runs/
